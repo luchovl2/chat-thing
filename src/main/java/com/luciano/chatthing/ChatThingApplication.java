@@ -13,8 +13,8 @@ public class ChatThingApplication
 
 }
 
-//usuario: id (int), nombre (string), contactos (set usuarios), chats (chat)
 //app: usuarios (usuario), chats (chat)
+//usuario: id (int), nombre (string), contactos (set usuarios), chats (chat)
 //chat: mensajes (mensaje), usuarios (int (id))
 //mensaje: texto (string), dueño (int (id))
 
